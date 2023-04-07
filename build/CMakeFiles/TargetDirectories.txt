@@ -1,0 +1,15 @@
+D:/cmake_demo/build/CMakeFiles/demo.dir
+D:/cmake_demo/build/CMakeFiles/edit_cache.dir
+D:/cmake_demo/build/CMakeFiles/rebuild_cache.dir
+D:/cmake_demo/build/CMakeFiles/list_install_components.dir
+D:/cmake_demo/build/CMakeFiles/install.dir
+D:/cmake_demo/build/CMakeFiles/install/local.dir
+D:/cmake_demo/build/CMakeFiles/install/strip.dir
+D:/cmake_demo/build/calc/CMakeFiles/add.dir
+D:/cmake_demo/build/calc/CMakeFiles/sub.dir
+D:/cmake_demo/build/calc/CMakeFiles/edit_cache.dir
+D:/cmake_demo/build/calc/CMakeFiles/rebuild_cache.dir
+D:/cmake_demo/build/calc/CMakeFiles/list_install_components.dir
+D:/cmake_demo/build/calc/CMakeFiles/install.dir
+D:/cmake_demo/build/calc/CMakeFiles/install/local.dir
+D:/cmake_demo/build/calc/CMakeFiles/install/strip.dir

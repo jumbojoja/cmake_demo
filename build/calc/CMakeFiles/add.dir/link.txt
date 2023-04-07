@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc ..\lib\libadd.a CMakeFiles/add.dir/add.cpp.obj
+C:\mingw64\bin\ranlib.exe ..\lib\libadd.a

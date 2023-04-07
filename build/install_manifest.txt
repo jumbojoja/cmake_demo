@@ -1,0 +1,6 @@
+D:/cmake_demo/build/../install/bin/demo.exe
+D:/cmake_demo/build/../install/lib/libadd.a
+D:/cmake_demo/build/../install/include/add.h
+D:/cmake_demo/build/../install/bin/libsub.dll.a
+D:/cmake_demo/build/../install/bin/libsub.dll
+D:/cmake_demo/build/../install/include/sub.h
